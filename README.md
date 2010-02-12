@@ -17,7 +17,7 @@ Add the following four links to the <head> of your page::
 
 Make sure you have the stylesheet links correct. 
 
-Then edit "screen.css" to change a[href^="http://yourwebsite.com"] by putting your url in 
+Then edit "screen.css" to change `a[href^="http://yourwebsite.com"]` by putting your url in 
 place of yourwebsite.com. This ensures that internal links will not show the external link icon.
 
 Now get designing!
