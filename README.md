@@ -1,11 +1,10 @@
-=======================================
-        BlueTrip CSS Framework
+BlueTrip CSS Framework
 =======================================
 
 A CSS Framework that fuses the best of Blueprint and Tripoli, among others.
 
 USAGE
-=====
+-----
 
 Add the following four links to the <head> of your page::
 
@@ -24,11 +23,11 @@ place of yourwebsite.com. This ensures that internal links will not show the ext
 Now get designing!
 
 INFORMATION
-===========
+-----------
 
 Visit bluetrip.org for more detailed information, instructions, and support.
 
 LICENSE
-=======
+-------
 
 See the LICENSE.txt file.
