@@ -8,12 +8,12 @@ USAGE
 
 Add the following four links to the <head> of your page::
 
-   <link rel="stylesheet" href="../css/screen.css" type="text/css" media="screen, projection">
-   <link rel="stylesheet" href="../css/print.css" type="text/css" media="print"> 
-   <!--[if IE]>
-     <link rel="stylesheet" href="../css/ie.css" type="text/css" media="screen, projection">
-   <![endif]-->
-   <link rel="stylesheet" href="../css/style.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../css/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../css/print.css" type="text/css" media="print"> 
+    <!--[if IE]>
+        <link rel="stylesheet" href="../css/ie.css" type="text/css" media="screen, projection">
+    <![endif]-->
+    <link rel="stylesheet" href="../css/style.css" type="text/css" media="screen, projection">
 
 Make sure you have the stylesheet links correct. 
 
