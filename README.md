@@ -30,4 +30,4 @@ Visit bluetrip.org for more detailed information, instructions, and support.
 LICENSE
 -------
 
-See the LICENSE.txt file.
+See the UNLICENSE.md file.
