@@ -1,7 +1,7 @@
 BlueTrip CSS Framework
 =======================================
 
-A CSS Framework that fuses the best of Blueprint and Tripoli, among others.
+A CSS grid-based framework born from the best parts of other frameworks, now with a life of its own.
 
 USAGE
 -----
@@ -30,4 +30,4 @@ Visit bluetrip.org for more detailed information, instructions, and support.
 LICENSE
 -------
 
-See the UNLICENSE.md file.
+BlueTrip is licensed under the Unlicense. See the UNLICENSE.md file for more info.
