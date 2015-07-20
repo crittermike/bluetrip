@@ -243,6 +243,7 @@ a[href^="http:"],
 a[href^="mailto:"],
 a[href$=".pdf"],
 a[href$=".doc"],
+a[href$=".docx"],
 a[href$=".xls"],
 a[href$=".rss"],
 a[href$=".rdf"],
@@ -256,6 +257,7 @@ a[href^="http:"]:visited  { background-image: url(../images/icons/visited.png); 
 /*** FILE LINK ICONS ***/
 a[href$=".pdf"]   { background-image: url(../images/icons/pdf.png); }
 a[href$=".doc"]   { background-image: url(../images/icons/doc.png); }
+a[href$=".docx"]   { background-image: url(../images/icons/doc.png); }
 a[href$=".xls"]   { background-image: url(../images/icons/xls.png); }
 
 /*** MISCELLANEOUS LINK ICONS ***/
